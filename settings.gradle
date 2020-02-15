@@ -1,0 +1,2 @@
+include ':app', ':CustomerEvent'
+rootProject.name='UILearning'
